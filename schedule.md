@@ -19,12 +19,12 @@ WEEK 2 FEBRUARY 1
 - All About Data: models, structures, and data in your field
 - Technology Fundamentals
 - Introduction to programming (taught with Javascript)
-- Project 1 Assignment
+- Project 1 Assignment <span id="slideBullet"> &#9830; <a href="../assets/img/project1.pdf" target="_blank">Project Description</a></span>
 
 
 ________________________________________________________________________________
 WEEK 3 FEBRUARY 8
-
+<span id="slideBullet"> &#9830; </span><a href="https://docs.google.com/presentation/d/1_oTg3WI2Nya8IStz0sLM-TZG4v_Xn9lA63W24wVdxsw/edit?usp=sharing" target="_blank">Slides</a>
 - Visual Encoding and Graphical Perception: 
 - How do we make design choices when it comes to dataviz?
 - Intro to Javascript
