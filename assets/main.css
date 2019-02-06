@@ -528,13 +528,8 @@ table {
         margin-left:20px;
     }
     #slideBullet{
-        color:#69a75b;
+        color:red;
     }
     #t1{color:#6097ce}
     #t6{color:#e08e2b}
-    a{
-        color:#69a75b;
-}
-a:visited{
-    color:#69a75b;
-}
+  
