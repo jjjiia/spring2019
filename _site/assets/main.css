@@ -131,6 +131,7 @@ pre {
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
+  padding-top: 30px;
   padding-left: 30px; }
   @media screen and (max-width: 800px) {
     .wrapper {
@@ -532,4 +533,5 @@ table {
     }
     #t1{color:#6097ce}
     #t6{color:#e08e2b}
-  
+  .p-name{display:none;}
+  .footer-heading{display:none;}
