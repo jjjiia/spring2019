@@ -505,3 +505,23 @@ table {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+    #students{
+        font-size:30px;
+        letter-spacing:2px;
+    }
+    #separator{
+        color:#6097ce;
+    }
+    #semester{
+        color:#69a75b;
+    }
+    #rTitle{
+        color:#69a75b;
+        font-size:18px;
+    }
+    #rItem{
+        font-size:12px;
+        letter-spacing:1px;
+        margin-left:20px;
+    }
