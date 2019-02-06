@@ -8,13 +8,14 @@ COURSE SCHEDULE
 
 ________________________________________________________________________________
 WEEK 1 JANUARY 25
+<span id="slideBullet"> &#9830; </span><a href="https://docs.google.com/presentation/d/113_2gaVM6rhrJxREdOftAjYqwJuGx4VL6ajnGePwlBo/edit?usp=sharing" target="_blank">Slides</a>
 
 - Introduction: A Very Brief History
 - Overview of Course: logistics, structure, enrollment
 
 ________________________________________________________________________________ 
 WEEK 2 FEBRUARY 1
-
+<span id="slideBullet"> &#9830; </span><a href="https://docs.google.com/presentation/d/19TMqK8XmWMZc94I3pa6138WoyxGD4gSFxFBBYZwyLX4/edit?usp=sharing" target="_blank">Slides</a>
 - All About Data: models, structures, and data in your field
 - Technology Fundamentals
 - Introduction to programming (taught with Javascript)

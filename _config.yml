@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Data Visualization Spring 2019
+title: Data Visualization A4982
 email: jz3077@columbia.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the website for Data Visualization for Architecture, Urbanism, and the Humanities Spring 2019
 baseurl: "/spring2019" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: c4sr
-github_username:  c4sr
+twitter_username: c4sr_columbia
+#github_username:  CenterForSpatialResearch
 
 # Build settings
 markdown: kramdown

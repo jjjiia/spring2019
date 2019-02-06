@@ -507,8 +507,10 @@ table {
     color: #099; }
 
     #students{
-        font-size:30px;
+        font-size:36px;
         letter-spacing:2px;
+      text-transform: uppercase;
+
     }
     #separator{
         color:#6097ce;
@@ -524,4 +526,7 @@ table {
         font-size:12px;
         letter-spacing:1px;
         margin-left:20px;
+    }
+    #slideBullet{
+        color:#69a75b;
     }

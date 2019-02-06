@@ -3,12 +3,7 @@ layout: page
 permalink: /
 ---
 
-<p>
-<img border="0" alt="" src="assets/img/1.png" height="100px">
-<img border="0" alt="" src="assets/img/2.png" height="100px">
-<img border="0" alt="" src="assets/img/3.png" height="100px">
 
-</p>
 <span id="rTitle">Welcome to Data Visualization for Architecture, Urbanism, and the Humanities Spring 2019</span>
 
 <p>This is a class that combines critical engagement with information visualization and its hands on production .
