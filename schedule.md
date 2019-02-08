@@ -28,7 +28,7 @@ WEEK 3 FEBRUARY 8
 - Visual Encoding and Graphical Perception: 
 - How do we make design choices when it comes to dataviz?
 - Intro to Javascript
-- Project 1 Discussion
+- Project 1 Discussion <span id="slideBullet"> &#9830; </span><a href="../assets/img/dear_data_excerpt.pdf" target="_blank">Dear Data Worksheets for inspo</a>
 
 ________________________________________________________________________________
 WEEK 4 FEBRUARY 15
