@@ -91,7 +91,7 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________
 
-<span id="rTitle">colors</span>
+<span id="rTitle">Colors</span>
 <div id ="rItem">
 <a href="http://tristen.ca/hcl-picker/#/hlc/6/1/15534C/E2E062" target="_blank">hcl-picker</a><br/>
 <a href="http://www.0to255.com/" target="_blank">0to255</a><br/>
