@@ -88,3 +88,14 @@ ________________________________________________________________________________
 <a href="http://www.openvisconf.com/" target="_blank">openvis conference</a><br/>
 <br/>
 </div>
+
+____________________________________________________________________________________
+
+<span id="rTitle">colors</span>
+<div id ="rItem">
+<a href="http://tristen.ca/hcl-picker/#/hlc/6/1/15534C/E2E062" target="_blank">hcl-picker</a><br/>
+<a href="http://www.0to255.com/" target="_blank">0to255</a><br/>
+<a href="https://sipapp.io/" target="_blank">sipapp</a><br/>
+<a href="http://colorbrewer2.org" target="_blank">colorbrewer2</a><br/>
+<a href="http://tools.medialab.sciences-po.fr/iwanthue/" target="_blank">I want hue</a><br/>
+</div>
