@@ -34,9 +34,8 @@ permalink: /students/
 <a href="https://lslapphira.github.io/" target="_blank">Yanli Zhao</a><span id="separator"> &#9830; </span>
 <a href="https://cyanchow.github.io/index.html" target="_blank">Chenyan Zhou</a><span id="separator"> &#9830; </span>
 <a href="https://adrianblanco.github.io/DataVis-Spring-2019/" target="_blank">Adrian Blanco</a><span id="separator"> &#9830; </span>
-<a href="tl2812@cumc.columbia.edu" target="_blank">Taylor Lampe</a><span id="separator"> &#9830; </span>
+<a href="https://tl2812.github.io/" target="_blank">Taylor Lampe</a><span id="separator"> &#9830; </span>
 <a href="https://yqjim111.github.io/" target="_blank">Qi Yang</a><span id="separator"> &#9830; </span>
-<a href="https://github.com/jl5221/jl5221.github.io" target="_blank">Jinsook Lee</a><span id="separator"> &#9830; </span>
 <a href="https://syclaire.github.io/" target="_blank">Seung Yeun Ahn</a>
 
 </div>
