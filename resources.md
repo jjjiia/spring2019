@@ -39,6 +39,17 @@ ________________________________________________________________________________
 </div>
 
 ____________________________________________________________________________________
+<span id="rTitle">Publications</span>
+<div id ="rItem">
+    <a href="https://www.nytimes.com/interactive/2018/us/2018-year-in-graphics.html" target="_blank">New York Times</a><br/>
+    <a href="https://www.nationalgeographic.org/" target="_blank">National Geographic</a><br/>
+    <a href="https://www.propublica.org/" target="_blank">Propublica</a><br/>
+    <a href="https://fivethirtyeight.com/" target="_blank">538</a><br/>
+    <br/>
+</div>
+
+
+____________________________________________________________________________________
 
 <span id="rTitle">Podcast</span>
 <div id ="rItem">
@@ -51,19 +62,19 @@ ________________________________________________________________________________
 
 <span id="rTitle">Labs, Projects, People</span>
 <div id ="rItem">
-    <a href="http://deck.gl/#/" target="_blank">Uber Visualization Library</a><br/>
-    <a href="http://macro.media.mit.edu/" target="_blank">MIT Macroconnections Lab</a><br/>
-    <a href="http://senseable.mit.edu/" target="_blank">MIT Senseable Cities Lab</a><br/>
-    <a href="http://civicdatadesignlab.mit.edu/" target="_blank">MIT Civic Data Design Lab</a><br/>
-    <a href="http://idl.cs.washington.edu/" target="_blank">University of Washington Lab</a><br/>
-    <a href="https://vcg.seas.harvard.edu/" target="_blank">Harvard Lab</a><br/>
-    <a href="https://periscopic.com/" target="_blank">Periscopic</a><br/>
-    <a href="http://www.hyperakt.com/" target="_blank">Hyperakt</a><br/>
-    <a href="http://www.therefugeeproject.org/" target="_blank">The Refugee Project</a><br/>
-    <a href="https://fathom.info/" target="_blank">Fathom</a><br/>
-    <a href="https://stamen.com/" target="_blank">Stamen</a><br/>
-    <a href="http://hint.fm/wind/" target="_blank">Enigma.io</a><br/>
-    <a href="https://flowingdata.com/" target="_blank">Flowing Data</a><br/>
+    <a href="http://deck.gl/#/" target="_blank">Uber Visualization Library</a><br/> a WebGL-powered framework for visual exploratory data analysis of large datasets.<br/><br/>
+    <a href="http://macro.media.mit.edu/" target="_blank">MIT Macroconnections Lab</a><br/> ...improve how teams, organizations, and nations learn.<br/><br/>
+    <a href="http://senseable.mit.edu/" target="_blank">MIT Senseable Cities Lab</a><br/>  Urban imagination and social innovation through design & science<br/><br/>
+    <a href="http://civicdatadesignlab.mit.edu/" target="_blank">MIT Civic Data Design Lab</a><br/>  “Big data” will not change the world unless it is collected and synthesized into tools that have a public benefit.<br/><br/>
+    <a href="http://idl.cs.washington.edu/" target="_blank">University of Washington Interactive Data Lab</a><br/>Led by Jeff Heer, "enhance people's ability to understand and communicate data through the design of new interactive systems for data visualization and analysis."<br/><br/> 
+    <a href="https://vcg.seas.harvard.edu/" target="_blank">Harvard Lab</a><br/> 
+The Visual Computing Group, led by Hanspeter Pfister<br/><br/>
+    <a href="https://periscopic.com/" target="_blank">Periscopic</a><br/>"Do Good with Data" - Kim Rees<br/><br/>
+    <a href="http://www.hyperakt.com/" target="_blank">Hyperakt</a><br/> Brooklyn based design company with open lunch guest talks every month.<br/><br/>
+    <a href="https://fathom.info/" target="_blank">Fathom</a><br/> Ben Fry<br/><br/>
+    <a href="https://stamen.com/" target="_blank">Stamen</a><br/> Mapping and Visualization <br/><br/>
+    <a href="http://hint.fm/wind/" target="_blank">Hint</a><br/> Fernanda Viegas and Marten Wattenberg<br/><br/>
+    <a href="https://flowingdata.com/" target="_blank">Flowing Data</a><br/> Tutorials and writing by Nathan Yau <br/><br/>
     <br/>
 </div>
 ____________________________________________________________________________________
