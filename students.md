@@ -17,6 +17,7 @@ permalink: /students/
 <a href="https://zh2358.github.io/" target="_blank">Zilu He</a><span id="separator"> &#9830; </span>
 <a href="https://zj2243.github.io/index.html" target="_blank">Zeyi Jiang</a><span id="separator"> &#9830; </span>
 <a href="https://saintyu.github.io/" target="_blank">Shuyuan Li</a><span id="separator"> &#9830; </span>
+<a href="https://jl5212.github.io/" target="_blank">Jianqi Li</a><span id="separator"> &#9830; </span>
 <a href="https://joreeliu.github.io/index.html" target="_blank">Joree Liu</a><span id="separator"> &#9830; </span>
 <a href="https://lkjivy.github.io/" target="_blank">Keju Liu</a><span id="separator"> &#9830; </span>
 <a href="https://renzo0756.github.io/" target="_blank">Yingjun Mou</a><span id="separator"> &#9830; </span>
