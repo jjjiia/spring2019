@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>D3: Drawing divs with data</title>
-		<script type="text/javascript" src="d3.js"></script>
+		<script type="text/javascript" src="../d3.js"></script>
 		<style type="text/css">
 		    #button1{
 		        font-family:helvetica;
@@ -12,7 +12,6 @@
                 text-align:center;
                 padding:15px;
                 background-color:#ca5670;
-                opacity:.5;
                 width:90px;
                 height:20px;
                 border-radius:40px;
@@ -107,13 +106,17 @@
            
            
         //up to here is all you needed for chapter 6, below is a button interaction just for fun
+        //this changes the circles according to random data. we will cover changing between dataset in chapter 9.
+        //the button stuff here is in chapter 10 - this is just preview
             d3.select("#button1")
                 .on("mouseover",function(){
+                    //this means the button itself, changes its background color to red
                     d3.select(this)
                     .transition()
                     .duration(1000)
-                    .style("opacity",1)
+                    .style("background-color","#638ccc")
                     
+                    //this part changes the circles
                     d3.selectAll("circle")
                     .transition()
                     .duration(500)
@@ -125,10 +128,11 @@
                     })
                 })
                 .on("mouseout",function(){
+                    //changes the color of the button itself back
                     d3.select(this)
                     .transition()
                     .duration(500)
-                    .style("opacity",.5)
+                    .style("background-color","#ca5670")
                 })
                 
                 
