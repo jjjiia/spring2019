@@ -22,7 +22,7 @@ You can find tutorial companion files at at <a href="https://github.com/alignedl
 
 
 ____________________________________________________________________________________
-<span id="rTitle">References and Guides</span>
+<span id="rTitle">Technical References and Guides</span>
 
 
 <div id ="rItem">
@@ -38,7 +38,17 @@ ________________________________________________________________________________
     <br>
     <i>Please also refer to the file section of courseworks for longer guides/book sections in pdf format</i><br><br>
 </div>
+
 ____________________________________________________________________________________
+<span id="rTitle">Inspiration</span>
+<div id ="rItem">
+
+<a href="https://pudding.cool" target="_blank">The Pudding</a><br>
+
+</div>
+
+____________________________________________________________________________________
+
 <span id="rTitle">Colors</span>
 <div id ="rItem">
 <a href="https://99percentinvisible.org/episode/the-secret-lives-of-color/" target="_blank">Podcast Episode: The Secret Lives of Color</a><br>
@@ -68,15 +78,6 @@ ________________________________________________________________________________
     <a href="https://www.nationalgeographic.org/" target="_blank">National Geographic</a><br>
     <a href="https://www.propublica.org/" target="_blank">Propublica</a><br>
     <a href="https://fivethirtyeight.com/" target="_blank">538</a><br>
-    <br>
-</div>
-
-
-
-____________________________________________________________________________________
-<span id="rTitle">Podcast</span>
-<div id ="rItem">
-    <a href="http://datastori.es/" target="_blank">Data Stories Podcast</a><br>
     <br>
 </div>
 
@@ -110,6 +111,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________
 <span id="rTitle">Awards and Conferences</span>
 <div id ="rItem">
+<a href="http://informationplusconference.com/" target="_blank">Information+ Conference</a><br>
 <a href="https://www.informationisbeautifulawards.com/news/118-the-nyt-s-best-data-visualizations-of-the-year
 " target="_blank">Information is Beautiful Awards</a><br>
 <a href="https://www.snd.org/" target="_blank">Society for New Design</a><br>
@@ -118,4 +120,11 @@ ________________________________________________________________________________
 <a href="https://chi2019.acm.org/" target="_blank">CHI</a><br>
 <a href="http://www.openvisconf.com/" target="_blank">openvis conference</a><br>
 <br>
+</div>
+
+____________________________________________________________________________________
+<span id="rTitle">Podcast</span>
+<div id ="rItem">
+    <a href="http://datastori.es/" target="_blank">Data Stories Podcast</a><br>
+    <br>
 </div>
