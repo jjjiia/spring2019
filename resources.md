@@ -69,8 +69,6 @@ ________________________________________________________________________________
     <br>
 </div>
 
-
-
 ____________________________________________________________________________________
 <span id="rTitle">Publications</span>
 <div id ="rItem">
@@ -78,6 +76,7 @@ ________________________________________________________________________________
     <a href="https://www.nationalgeographic.org/" target="_blank">National Geographic</a><br>
     <a href="https://www.propublica.org/" target="_blank">Propublica</a><br>
     <a href="https://fivethirtyeight.com/" target="_blank">538</a><br>
+    <a href="https://www.ft.com/chart-doctor" target="_blank">Financial Times</a><br>
     <br>
 </div>
 

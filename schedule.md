@@ -13,6 +13,9 @@ WEEK 1 JANUARY 25
 - Introduction: A Very Brief History
 - Overview of Course: logistics, structure, enrollment
 
+- <i>Interactive Data Visualization for the Web</i> by Scott Murray, Chapter 1 & 2 Introductions
+- <i>Interactive Data Visualization for the Web</i> by Scott Murray, Skim Chapter 3 Technology Fundamentals
+
 ________________________________________________________________________________ 
 WEEK 2 FEBRUARY 1
 <span id="slideBullet"> &#9830; </span><a href="https://docs.google.com/presentation/d/19TMqK8XmWMZc94I3pa6138WoyxGD4gSFxFBBYZwyLX4/edit?usp=sharing" target="_blank">Slides</a>
@@ -21,6 +24,7 @@ WEEK 2 FEBRUARY 1
 - Introduction to programming (taught with Javascript)
 - Project 1 Assignment <span id="slideBullet"> &#9830; <a href="../assets/img/project1.pdf" target="_blank">Project Description</a></span>
 
+- <i>Interactive Data Visualization for the Web</i> by Scott Murray, Chapter 4 & 5 Setup and Data
 
 ________________________________________________________________________________
 WEEK 3 FEBRUARY 8
@@ -30,12 +34,16 @@ WEEK 3 FEBRUARY 8
 - Intro to Javascript
 - Project 1 Discussion <span id="slideBullet"> &#9830; </span><a href="../assets/img/dear_data_excerpt.pdf" target="_blank">Dear Data Worksheets for inspo</a>
 
+- <i>Interactive Data Visualization for the Web</i> by Scott Murray, Chapter 6 Drawing with Data
+
 ________________________________________________________________________________
 WEEK 4 FEBRUARY 15
 <span id="slideBullet"> &#9830; </span><a href="https://docs.google.com/presentation/d/1Z_Ubci0YnehhcNCeqpJ-zgoMSwcB8iS-tIOKCqu14dw/edit?usp=sharing" target="_blank">Slides</a>
 - Narrative structure and storytelling in the context of visualization and interactivity
 - Interactivity Demo
 - Project 1 Checkin
+
+- <i>Interactive Data Visualization for the Web</i> by Scott Murray, Chapter 6 Drawing with Data Review
 
 ________________________________________________________________________________
 WEEK 5: FEBRUARY 22
@@ -45,12 +53,16 @@ WEEK 5: FEBRUARY 22
 - Project 1 Due
 - Project 2 Assignment
 
+- <i>Interactive Data Visualization for the Web</i> by Scott Murray, Chapter 7 & 8 Scales and Axes
+
 ________________________________________________________________________________
 WEEK 6: MARCH 1
 
 - Power of Representation (and underrepresentation)
 - Data Humanism
 - Project 2 Discussion
+
+- <i>Interactive Data Visualization for the Web</i> by Scott Murray, Chapter 9 Updates, Transitions, Motion
 
 ________________________________________________________________________________
 WEEK 7: MARCH 8
@@ -60,6 +72,7 @@ WEEK 7: MARCH 8
 - Short Discussion Topic: Issues of Accessibility, Sustainability, Reciprocality in Public Datasets and Interactive Visualizations
 - Project 2 Checkin
 
+- <i>Interactive Data Visualization for the Web</i> by Scott Murray, Chapter 10 Interactivity
 
 ________________________________________________________________________________
 WEEK 8: MARCH 15
@@ -68,6 +81,9 @@ WEEK 8: MARCH 15
 - Introduction to special topics: networks, maps, text
 - Planning your final project, discussions, ideas, and pitches
 - Project 2 Due
+
+- D3 Pie and Line Demo and Tutorial
+- D3 review Chapters 1 - 10
 
 ________________________________________________________________________________
 
