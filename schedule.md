@@ -32,7 +32,7 @@ WEEK 3 FEBRUARY 8
 
 ________________________________________________________________________________
 WEEK 4 FEBRUARY 15
-
+<span id="slideBullet"> &#9830; </span><a href="https://docs.google.com/presentation/d/1Z_Ubci0YnehhcNCeqpJ-zgoMSwcB8iS-tIOKCqu14dw/edit?usp=sharing" target="_blank">Slides</a>
 - Narrative structure and storytelling in the context of visualization and interactivity
 - Interactivity Demo
 - Project 1 Checkin

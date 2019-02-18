@@ -11,6 +11,9 @@ permalink: /
 <span id="t4">Urbanism <br/></span>
 <span id="t5">and the Humanities <br/></span>
 <span id="t6">Spring 2019</span>
+<span id="t6">Spring 2019</span>
+<span id="t6">Spring 2019</span>
+<span id="t6">Spring 2019</span>
 
 <p>This is a class that combines critical engagement with information visualization and its hands on production .
 In this class, students will be introduced to key concepts in design of information visualization(and interactivity). We will put theory to practice in discussions that critically engage with the visualizations we find in the world. We will also produce visualizations by hand and by code - students should be prepared to learn and experiment with both.</p>
