@@ -38,5 +38,6 @@ permalink: /students/
 <a href="https://tl2812.github.io/" target="_blank">Taylor Lampe</a><span id="separator"> &#9830; </span>
 <a href="https://yqjim111.github.io/" target="_blank">Qi Yang</a><span id="separator"> &#9830; </span>
 <a href="https://syclaire.github.io/" target="_blank">Seung Yeun Ahn</a>
+<a href="https://ss5397.github.io/" target="_blank">Sanggyu Shin</a>
 
 </div>
