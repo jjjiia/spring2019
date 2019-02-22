@@ -62,6 +62,8 @@ ________________________________________________________________________________
 ____________________________________________________________________________________
 <span id="rTitle">Data Sources</span>
 <div id ="rItem">
+     <a href="https://github.com/awesomedata/awesome-public-datasets" target="_blank">Awsome Public Datasets Github Repo</a><br>
+     <a href="https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0" target="_blank">Data is Plural Spreadsheet</a><br>
      <a href="https://www.forbes.com/sites/metabrown/2017/06/30/quick-links-to-municipal-open-data-portals-for-85-us-cities/#2a1c0342290c" target="_blank">Municiple Data List from Forbs</a><br>
     <a href="https://public.enigma.com/" target="_blank">Enigma Public</a><br>
     <a href="https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml" target="_blank">Census Data -  American Fact Finder</a><br>

@@ -40,37 +40,39 @@ ________________________________________________________________________________
 WEEK 4 FEBRUARY 15
 <span id="slideBullet"> &#9830; </span><a href="https://docs.google.com/presentation/d/1Z_Ubci0YnehhcNCeqpJ-zgoMSwcB8iS-tIOKCqu14dw/edit?usp=sharing" target="_blank">Slides</a>
 - Narrative structure and storytelling in the context of visualization and interactivity
+- Drawing with data Demo
 - Interactivity Demo
 - Project 1 Checkin
 
-- <i>Interactive Data Visualization for the Web</i> by Scott Murray, Chapter 6 Drawing with Data Review
+- <i>Interactive Data Visualization for the Web</i> by Scott Murray, Chapter 6 Drawing with Data (Repeat with additional HW)
 
 ________________________________________________________________________________
 WEEK 5: FEBRUARY 22
-
-- The Idea of Interactivity
-- Forms + Stories + Interactivity: Bringing things together
+<span id="slideBullet"> &#9830; </span><a href="https://docs.google.com/presentation/d/1AZ_pLCuHvXM7_x4bLsndgL7pAQ4cgxEewA-C3X9CdLE/edit?usp=sharing" target="_blank">Slides</a>
+- Power of Representation (and misrepresentation)
 - Project 1 Due
-- Project 2 Assignment
+- Project 2 Assignment <span id="slideBullet"> &#9830; <a href="../assets/img/Project 2 Public Data Exploration.pdf" target="_blank">Project Description</a></span>
+- Data loading and manipulation Demo
+- Scales and Axes Demo
 
 - <i>Interactive Data Visualization for the Web</i> by Scott Murray, Chapter 7 & 8 Scales and Axes
 
 ________________________________________________________________________________
 WEEK 6: MARCH 1
 
-- Power of Representation (and underrepresentation)
-- Data Humanism
-- Project 2 Discussion
+- UX/UI Guest Lightning Talk
+- Forms + Stories + Interactivity: Bringing things together
+- Interactivity Demo 1
+- Project 2 Checkin and Discussion
 
 - <i>Interactive Data Visualization for the Web</i> by Scott Murray, Chapter 9 Updates, Transitions, Motion
 
 ________________________________________________________________________________
 WEEK 7: MARCH 8
 
-- Review
-- Introduction to Public Data APIs
-- Short Discussion Topic: Issues of Accessibility, Sustainability, Reciprocality in Public Datasets and Interactive Visualizations
-- Project 2 Checkin
+- Review: graphical perception, narratives, interactivity
+- Interactivity Demo 2
+- Project 2 Checkin and Discussion
 
 - <i>Interactive Data Visualization for the Web</i> by Scott Murray, Chapter 10 Interactivity
 
@@ -78,11 +80,11 @@ ________________________________________________________________________________
 WEEK 8: MARCH 15
 (MIDTERM) 
 
-- Introduction to special topics: networks, maps, text
+- Introduction to special topics: networks, maps, text, and procedural art
 - Planning your final project, discussions, ideas, and pitches
 - Project 2 Due
 
-- D3 Pie and Line Demo and Tutorial
+- Special chart types: D3 Pie and Line Demo and Tutorial
 - D3 review Chapters 1 - 10
 
 ________________________________________________________________________________
