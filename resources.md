@@ -26,7 +26,7 @@ ________________________________________________________________________________
 
 
 <div id ="rItem">
-    <a href="https://flowingdata.com/2018/10/17/ask-the-question-visualize-the-answer/"target="_blank">Story Finding</a><br />
+    <a href="https://flowingdata.com/2018/10/17/ask-the-question-visualize-the-answer/" target="_blank">Story Finding</a><br />
     <a href="https://okfn.org/opendata/how-to-open-data/" target="_blank">Open Knowledge Foundation Guide to Open Data</a><br>
     <a href="https://informationisbeautiful.net/visualizations/rhetological-fallacies/" target="_blank">Rhetological Fallacies</a><br>
     <a href="http://www.tylervigen.com/spurious-correlations" target="_blank">Just for Fun: Spurious Correlations</a><br><br>
