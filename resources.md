@@ -97,7 +97,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________
 <span id="rTitle">Labs, Projects, People</span>
 <div id ="rItem">
-   <a href="https://lisacharlotterost.github.io/"target="_blank">Lisa Charlotte Rost<br /><br />
+   <a href="https://lisacharlotterost.github.io/" target="_blank">Lisa Charlotte Rost<br /><br />
     <a href="http://deck.gl/#/" target="_blank">Uber Visualization Library</a><br> a WebGL-powered framework for visual exploratory data analysis of large datasets.<br><br>s
     <a href="http://macro.media.mit.edu/" target="_blank">MIT Macroconnections Lab</a><br> ...improve how teams, organizations, and nations learn.<br><br>
     <a href="http://senseable.mit.edu/" target="_blank">MIT Senseable Cities Lab</a><br>  Urban imagination and social innovation through design & science<br><br>
