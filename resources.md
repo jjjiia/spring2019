@@ -51,13 +51,6 @@ ________________________________________________________________________________
 <a href="https://qz.com/1513260/the-best-data-visualization-in-2018-according-to-data-visualization-experts/" target="_blank"></a>Quartz<br />
 
 </div>
-____________________________________________________________________________________
-<span id="rTitle">Inspiration</span>
-<div id ="rItem">
-
-<a href="https://pudding.cool" target="_blank">The Pudding</a><br>
-
-</div>
 
 ____________________________________________________________________________________
 
@@ -97,8 +90,9 @@ ________________________________________________________________________________
 ____________________________________________________________________________________
 <span id="rTitle">Labs, Projects, People</span>
 <div id ="rItem">
+  <a href="https://pudding.cool" target="_blank">The Pudding</a><br><br>
    <a href="https://lisacharlotterost.github.io/" target="_blank">Lisa Charlotte Rost<br /><br />
-    <a href="http://deck.gl/#/" target="_blank">Uber Visualization Library</a><br> a WebGL-powered framework for visual exploratory data analysis of large datasets.<br><br>s
+    <a href="http://deck.gl/#/" target="_blank">Uber Visualization Library</a><br> a WebGL-powered framework for visual exploratory data analysis of large datasets.<br><br>
     <a href="http://macro.media.mit.edu/" target="_blank">MIT Macroconnections Lab</a><br> ...improve how teams, organizations, and nations learn.<br><br>
     <a href="http://senseable.mit.edu/" target="_blank">MIT Senseable Cities Lab</a><br>  Urban imagination and social innovation through design & science<br><br>
     <a href="http://civicdatadesignlab.mit.edu/" target="_blank">MIT Civic Data Design Lab</a><br>  “Big data” will not change the world unless it is collected and synthesized into tools that have a public benefit.<br><br>
