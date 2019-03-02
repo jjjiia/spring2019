@@ -59,6 +59,7 @@ WEEK 5: FEBRUARY 22
 
 ________________________________________________________________________________
 WEEK 6: MARCH 1
+<span id="slideBullet"> &#9830; </span><a href="https://docs.google.com/presentation/d/1ngHmIIwKcbsf7Ln6J6S-yDC3vI99wvF91YIKwpALPYI/edit?usp=sharing" target="_blank">Slides</a>
 
 - UX/UI Guest Lightning Talk
 - Forms + Stories + Interactivity: Bringing things together
@@ -72,6 +73,7 @@ WEEK 7: MARCH 8
 
 - Review: graphical perception, narratives, interactivity
 - Interactivity Demo 2
+- Introduction to special layouts
 - Project 2 Checkin and Discussion
 
 - <i>Interactive Data Visualization for the Web</i> by Scott Murray, Chapter 10 Interactivity
