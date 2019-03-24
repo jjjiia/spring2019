@@ -91,32 +91,32 @@ WEEK 8: MARCH 15
 
 ________________________________________________________________________________
 
-SPRING BREAK MARCH 22 
+WEEK 9: MARCH 22 SPRING BREAK 
 
 ________________________________________________________________________________
 
-WEEK 9: MARCH 29
+WEEK 10: MARCH 29
 
-- Special Topic 1 Networks (order subject to change)
+- Special Topic 1 APIs and Web
 - Final Project Ideas Dicussion
 
 ________________________________________________________________________________
 
-WEEK 10: APRIL 5
+WEEK 11: APRIL 5
 
 - Special Topic 2 Web and Mobile Maps
 - Final Project Workshop
 - Troubleshooting Clinic 1 
 
 ________________________________________________________________________________
-WEEK 11: APRIL 12
+WEEK 12: APRIL 12
 
 - Special Topic 3 Text
 - Final Project Iteration 1
         
 ________________________________________________________________________________
 
-WEEK 12: APRIL 19
+WEEK 13: APRIL 19
 
 - Desk Crits and Group Work
 - Troubleshooting Clinic 2
@@ -124,12 +124,12 @@ WEEK 12: APRIL 19
 
 ________________________________________________________________________________
 
-WEEK 13: APRIL 26
+WEEK 14: APRIL 26
 
 - Final review with guests!
 
 ________________________________________________________________________________
-WEEK 14: MAY 3
+WEEK 15: MAY 3
 
 - Final Showcase! 
 - Visit each other’s projects, chat about next steps, have a good time.
