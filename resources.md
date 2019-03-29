@@ -87,6 +87,38 @@ ________________________________________________________________________________
     <br>
 </div>
 
+
+____________________________________________________________________________________
+
+<span id="rTitle">Other Visualization Classes at Columbia</span>
+<div id ="rItem">
+	<a href="https://columbiaviz.github.io/2018f_w4995/" target="_blank">Fall 2018 Computer Science</a><br> 
+	<a href="http://agneschang.net/gsapp-dataviz-archhum/" target="_blank">Spring 2018 GSAPP</a><br>
+	<a href="https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/Syllabus.md" target="_blank">Spring 2017 GSAPP</a>
+	<br><br>
+</div>
+
+____________________________________________________________________________________
+<span id="rTitle">Awards and Conferences</span>
+<div id ="rItem">
+	<a href="http://informationplusconference.com/" target="_blank">Information+ Conference</a><br>
+	<a href="https://www.informationisbeautifulawards.com/news/118-the-nyt-s-best-data-visualizations-of-the-year
+	" target="_blank">Information is Beautiful Awards</a><br>
+	<a href="https://www.snd.org/" target="_blank">Society for New Design</a><br>
+	<a href="http://eyeofestival.com/" target="_blank">Eyeo Festival</a><br>
+	<a href="http://ieeevis.org/year/2019/welcome" target="_blank">IEEEVIS</a><br>
+	<a href="https://chi2019.acm.org/" target="_blank">CHI</a><br>
+	<a href="http://www.openvisconf.com/" target="_blank">openvis conference</a><br>
+	<br>
+</div>
+
+____________________________________________________________________________________
+<span id="rTitle">Podcast</span>
+<div id ="rItem">
+    <a href="http://datastori.es/" target="_blank">Data Stories Podcast</a><br>
+    <br>
+</div>
+
 ____________________________________________________________________________________
 <span id="rTitle">Labs, Projects, People</span>
 <div id ="rItem">
@@ -103,36 +135,6 @@ ________________________________________________________________________________
     <a href="https://fathom.info/" target="_blank">Fathom</a><br> Ben Fry<br><br>
     <a href="https://stamen.com/" target="_blank">Stamen</a><br> Mapping and Visualization <br><br>
     <a href="http://hint.fm/wind/" target="_blank">Hint</a><br> Fernanda Viegas and Marten Wattenberg<br><br>
-    <a href="https://flowingdata.com/" target="_blank">Flowing Data</a><br> Tutorials and writing by Nathan Yau <br><br>
+    <a href="https://flowingdata.com/" target="_blank">Flowing Data</a><br> Tutorials and writing by Nathan Yau <br>
     <br>
-</div>
 
-
-____________________________________________________________________________________
-<span id="rTitle">Other Visualization Classes at Columbia</span>
-<div id ="rItem">
-<a href="https://columbiaviz.github.io/2018f_w4995/" target="_blank">Fall 2018 Computer Science</a><br> 
-<a href="http://agneschang.net/gsapp-dataviz-archhum/" target="_blank">Spring 2018 GSAPP</a><br>
-<a href="https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/Syllabus.md" target="_blank">Spring 2017 GSAPP</a><br><br>
-</div>
-
-____________________________________________________________________________________
-<span id="rTitle">Awards and Conferences</span>
-<div id ="rItem">
-<a href="http://informationplusconference.com/" target="_blank">Information+ Conference</a><br>
-<a href="https://www.informationisbeautifulawards.com/news/118-the-nyt-s-best-data-visualizations-of-the-year
-" target="_blank">Information is Beautiful Awards</a><br>
-<a href="https://www.snd.org/" target="_blank">Society for New Design</a><br>
-<a href="http://eyeofestival.com/" target="_blank">Eyeo Festival</a><br>
-<a href="http://ieeevis.org/year/2019/welcome" target="_blank">IEEEVIS</a><br>
-<a href="https://chi2019.acm.org/" target="_blank">CHI</a><br>
-<a href="http://www.openvisconf.com/" target="_blank">openvis conference</a><br>
-<br>
-</div>
-
-____________________________________________________________________________________
-<span id="rTitle">Podcast</span>
-<div id ="rItem">
-    <a href="http://datastori.es/" target="_blank">Data Stories Podcast</a><br>
-    <br>
-</div>
