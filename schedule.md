@@ -70,23 +70,22 @@ WEEK 6: MARCH 1
 
 ________________________________________________________________________________
 WEEK 7: MARCH 8
+<span id="slideBullet"> &#9830; </span><a href="https://docs.google.com/presentation/d/1shoUEsgvjIWMl60DbGbhhYsYnNBaySZ2pp04HYuad3I/edit?usp=sharing" target="_blank">Slides</a>
 
 - Review: graphical perception, narratives, interactivity
 - Interactivity Demo 2
-- Introduction to special layouts
-- Project 2 Checkin and Discussion
+- Special chart types: D3 Pie and Line Demo and Tutorial
 
 - <i>Interactive Data Visualization for the Web</i> by Scott Murray, Chapter 10 Interactivity
 
 ________________________________________________________________________________
 WEEK 8: MARCH 15
 (MIDTERM) 
+<span id="slideBullet"> &#9830; </span><a href="https://docs.google.com/presentation/d/1xfKrfRWI4J2BexNdtUhR9-f05tW_LO4ZZSB_wspJDZM/edit?usp=sharing" target="_blank">Slides</a>
 
-- Introduction to special topics: networks, maps, text, and procedural art
-- Planning your final project, discussions, ideas, and pitches
-- Project 2 Due
-
-- Special chart types: D3 Pie and Line Demo and Tutorial
+- Introduction to special topics
+- Visualizations in the wild - dissecting examples
+- Project 2 Due - New due date Monday of Week 10
 - D3 review Chapters 1 - 10
 
 ________________________________________________________________________________
@@ -97,15 +96,16 @@ ________________________________________________________________________________
 
 WEEK 10: MARCH 29
 
+- Project 2 wrap-up
 - Special Topic 1 APIs and Web
-- Final Project Ideas Dicussion
+- Planning your final project, discussions, ideas, groups
 
 ________________________________________________________________________________
 
 WEEK 11: APRIL 5
 
 - Special Topic 2 Web and Mobile Maps
-- Final Project Workshop
+- Final Project Pitch
 - Troubleshooting Clinic 1 
 
 ________________________________________________________________________________
@@ -113,27 +113,27 @@ WEEK 12: APRIL 12
 
 - Special Topic 3 Text
 - Final Project Iteration 1
-        
+- Troubleshooting Clinic 2
+
 ________________________________________________________________________________
 
 WEEK 13: APRIL 19
 
-- Desk Crits and Group Work
-- Troubleshooting Clinic 2
-- Final Project Prototype final version before guests
+- Desk Crits and Group Work - Guests Review Option 1
+- Troubleshooting Clinic 3
 
 ________________________________________________________________________________
 
 WEEK 14: APRIL 26
 
-- Final review with guests!
+- Desk Crits and Group Work - Guests Review Option 2
 
 ________________________________________________________________________________
 WEEK 15: MAY 3
 
-- Final Showcase! 
+- Discussion on what's next - where do you go from here? 
 - Visit each other’s projects, chat about next steps, have a good time.
-- Final Assignment: Publish your final project and all the documentation
+- Final Assignment: Publish your final project and all the documentation.
 - Complete exit survey	
 
 ____________________________________________________________________________________

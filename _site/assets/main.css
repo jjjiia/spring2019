@@ -513,8 +513,16 @@ table {
       text-transform: uppercase;
 
     }
+	#project2{
+        font-size:14px;
+        letter-spacing:2px;
+		color:#6097ce;
+	}
     #separator{
         color:#6097ce;
+    }
+    #separator2{
+        color:#e08e2b;
     }
     #semester{
         color:#e08e2b;
