@@ -38,4 +38,3 @@ permalink: /students/
 <a href="https://lslapphira.github.io/" target="_blank">Yanli Zhao</a><span id="separator"> &#9830; </span>
 <a href="https://cyanchow.github.io/index.html" target="_blank">Chenyan Zhou</a><span id="separator"> &#9830; </span>
 
-</div>

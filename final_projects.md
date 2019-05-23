@@ -3,17 +3,21 @@ layout: page
 title: Final Projects
 permalink: /final_projects/
 ---
+See below for project summaries:<br/><br/>
 
-<div id="semester">Spring 2019</div>
-Inline-style: 
-![alt text](finalProjects.jpg "Logo Title Text 1")
+<img src="../assets/img/finalProjects.jpg">
 
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-<div id="semester">Spring 2019</div>
-<div id="students">
-
-</div>
+What is the Trend of Material Usage in Architecture Design?	<br>	-	Chenyan Zhou, Ge Guo	<span id="separator"> &#9830; </span>	<a href="	https://docs.google.com/presentation/d/1gTRoQHGidLjs0hQkyZ17XjzTBg1Om3CWeYebwiQobGw/edit#slide=id.p	" target="_blank">	Slides	</a>	<span id="separator"> &#9830; </span>	<a href="	../assets/studentProjects/	Final Project_Archdaily_Description.pdf	" target="_blank">Summary</a>		<br>	<br>
+A Day in the Life	<br>	-	Mike Soderberg													<br>	<br>
+Wildfires and Air Quality	<br>	-	Helen Pierson	<span id="separator"> &#9830; </span>	<a href="	https://docs.google.com/presentation/u/1/d/1HX0VYxRjZlUpIeTxI8dERevVm63N3FVoaB-FwlX-c_s/edit?usp=sharing	" target="_blank">	Slides	</a>	<span id="separator"> &#9830; </span>	<a href="	../assets/studentProjects/	Pierson_FinalOnePager.pdf	" target="_blank">Summary</a>		<br>	<br>
+Can travel patterns reveal shifting governance styles of Chinese presidents?	<br>	-	Kyi Yeung Goh, Luyun Shao	<span id="separator"> &#9830; </span>	<a href="	https://kyiyeunggoh.github.io/Assignments%20/Combined%20project/huxitravel.html	" target="_blank">	Slides	</a>	<span id="separator"> &#9830; </span>	<a href="	../assets/studentProjects/	Data Viz Write-up (1).docx	" target="_blank">Summary</a>		<br>	<br>
+What’s in the Water?	<br>	-	Lucy Navarro, Allison Fricke, Sanggyu Shin	<span id="separator"> &#9830; </span>	<a href="	https://aln2149.github.io/Final-Project/	" target="_blank">	Slides	</a>	<span id="separator"> &#9830; </span>	<a href="	../assets/studentProjects/	Final Project_One Page Summary.pdf	" target="_blank">Summary</a>		<br>	<br>
+"NEW YORK ACTING SCENES
+ULTIMATE GUIDE"	<br>	-	Joree Liu, Zeyi Jiang	<span id="separator"> &#9830; </span>	<a href="	https://docs.google.com/presentation/d/1CHQ9jrUHb3XfDq2nxO7cwV-y2BxtroqYNQkTScH3vHQ/edit#slide=id.p	" target="_blank">	Slides	</a>	<span id="separator"> &#9830; </span>	<a href="	../assets/studentProjects/	New York Acting Scenes Ultimate Guide.pdf	" target="_blank">Summary</a>		<br>	<br>
+H1-B Data Study	<br>	-	Gauri Bahuguna 	<span id="separator"> &#9830; </span>	<a href="	https://docs.google.com/presentation/d/1UhA3lltoOWtF6oll8iX--qg5UZSRy8h4uj_hDrdqJIg/edit#slide=id.p	" target="_blank">	Slides	</a>	<span id="separator"> &#9830; </span>	<a href="	../assets/studentProjects/	Gauri Bahuguna _ Final Project Description and Reflection (1).pdf	" target="_blank">Summary</a>		<br>	<br>
+The Rise and fall of Bitcoin	<br>	-	Yichen Ouyang	<span id="separator"> &#9830; </span>	<a href="	https://docs.google.com/presentation/d/13fOk6hZy5vc8oV4rRDIbTC7GpWfAnNPLunnamqAsTPQ/edit#slide=id.g56c5df69cc_0_0	" target="_blank">	Slides	</a>	<span id="separator"> &#9830; </span>	<a href="	../assets/studentProjects/	Final 1 Pager.pdf	" target="_blank">Summary</a>		<br>	<br>
+Predicting Puerto Rico	<br>	-	Qi Yang, Esteban Vanegas	<span id="separator"> &#9830; </span>	<a href="	https://docs.google.com/presentation/d/139TSwPTD2z1sEWw_jkrYWQPEMMaDC-55AKACmRudqKI/edit	" target="_blank">	Slides	</a>	<span id="separator"> &#9830; </span>	<a href="	../assets/studentProjects/	Predicting Puerto Rico.pdf	" target="_blank">Summary</a>		<br>	<br>
+World Bank Secondary Education Programs in Tanzania	<br>	-	Seung Yeun Ahn													<br>	<br>
+Mapping Air Pollution & It’s Consequences in California	<br>	-	Garrett Riha	<span id="separator"> &#9830; </span>	<a href="	https://gr2595.github.io/riha_datavizFinal/index.html	" target="_blank">	Slides	</a>	<span id="separator"> &#9830; </span>	<a href="	../assets/studentProjects/	Screen Shot 2019-05-02 at 10.31.58 PM.png	" target="_blank">Summary</a>		<br>	<br>
+Newburgh Tree Index	<br>	-	Zeid Ghawi, Berkhan Eminsoy 	<span id="separator"> &#9830; </span>	<a href="	https://sle7en.github.io/be2263.github.io-index.html/ClassMaterial/DataVis_ProjectFolder/Project3_Newburgh/index.html	" target="_blank">	Slides	</a>	<span id="separator"> &#9830; </span>	<a href="	../assets/studentProjects/	TheNewburghTreeIndex_ProjectDescription.pdf	" target="_blank">Summary</a>		<br>	<br>
+NYC Yellow Cab Data and tipping percentage patterns	<br>	-	Yingjun Mou, Xiaoyan Wang	<span id="separator"> &#9830; </span>	<a href="	https://docs.google.com/presentation/d/1CEVF6wKcztvUvbDziqaX2E3hIMnId1o105fxfIBzEGQ/edit#slide=id.p	" target="_blank">	Slides	</a>	<span id="separator"> &#9830; </span>	<a href="	../assets/studentProjects/	NYC Yellow Cab Data_Final Page.pdf	" target="_blank">Summary</a>		<br>	<br>
