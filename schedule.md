@@ -119,14 +119,14 @@ ________________________________________________________________________________
 
 WEEK 13: APRIL 19
 
-- Desk Crits and Group Work - Guests Review Option 1
 - Troubleshooting Clinic 3
+- Project demos tour
 
 ________________________________________________________________________________
 
 WEEK 14: APRIL 26
 
-- Desk Crits and Group Work - Guests Review Option 2
+- Final Presentations - Guests Review
 
 ________________________________________________________________________________
 WEEK 15: MAY 3

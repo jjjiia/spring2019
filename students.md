@@ -3,9 +3,7 @@ layout: page
 title: Students
 permalink: /students/
 ---
-
-<div id="semester">Spring 2019</div>
-<div id="students">
+    
 <a href="https://syclaire.github.io/" target="_blank">Seung Yeun Ahn</a><span id="separator"> &#9830; </span>
 <a href="https://gb2470.github.io/" target="_blank">Gauri Bahuguna</a><span id="separator"> &#9830; </span>
 <a href="https://adrianblanco.github.io/DataVis-Spring-2019/" target="_blank">Adrian Blanco</a><span id="separator"> &#9830; </span>
